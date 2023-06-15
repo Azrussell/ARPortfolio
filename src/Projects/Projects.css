@@ -1,0 +1,31 @@
+
+
+h1 {
+     color: black; 
+}
+
+ .container {
+     background-color: #f5ebe0; 
+}
+
+.project-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 45px;
+    background-color: #ede0d4;
+    /* flex-direction: row; */
+    /* align-items: center; */
+  }
+  
+  .project-box {
+    border: 5px;
+    padding: 50px;
+     border-style: ridge; 
+     border-color: black;
+  }
+
+  .sect-wrap {
+    background-color: #ede0d4;
+  }
+  

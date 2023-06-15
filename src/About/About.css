@@ -1,0 +1,61 @@
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: auto;
+}
+
+.text-column {
+    text-align: center;
+}
+
+.image-column {
+margin: 40px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    font-size: 64px;
+    font-family: PT Serif;
+    margin: 0;
+}
+
+p {
+    color: black;
+    font-family: HK Grotesk 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+    font-size: 24px;
+}
+
+
+
+.text {
+    flex: 1;
+    margin-right: 20px;
+  }
+
+  .image {
+    flex: 1;
+    text-align: right;
+  }
+
+  .page-wrapper {
+    margin: 15px;
+    background-color: red;
+  }
+
+
+  .about-me {
+    font-size: 38px;
+    margin: 0;
+  }
+
+  .about1 {
+    font-size: 38px;
+    margin: 0;
+  }
